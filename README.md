@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Kevin Pfeffer</h1>
 
-<!--
-**KevinLeeP/KevinLeeP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>FIRST Robotics Programming Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Goldfish (2025 Competition Robot)</b>
+  - [Java, Robot Control Systems, Autonomous Pathing, and Computer Vision]<br/><a href="https://github.com/FRC8576GoldenWarriors/Goldfish-Master-Codebase">(https://github.com/FRC8576GoldenWarriors/Goldfish-Master-Codebase)</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b><br/>24Karat (2024 Competition Robot)</b>
+  - [Java, Robot Control Systems]<br/><a href="https://github.com/FRC8576GoldenWarriors/24Karat-Master-Codebase">(https://github.com/FRC8576GoldenWarriors/24Karat-Master-Codebase)</a>
+
+
+
+<h2>Personal Software Projects</h2>
+- <b>Wordwide (Wordle Clone)</b>
+  - [Java, JavaFX, GUI]<br/><a href="https://github.com/KevinLeeP/Wordwide">(https://github.com/KevinLeeP/Wordwide)</a>
+
+
