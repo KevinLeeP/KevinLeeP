@@ -6,7 +6,7 @@
   - [Java, Robot Control Systems, Autonomous Pathing, and Computer Vision]<br/><a href="https://github.com/KevinLeeP/Goldfish-Master-Codebase">(https://github.com/KevinLeeP/Goldfish-Master-Codebase)</a>
 
 - <b><br/>24Karat (2024 Competition Robot)</b>
-  - [Java, Robot Control Systems]<br/><a href="https://github.com/FRC8576GoldenWarriors/24Karat-Master-Codebase">(https://github.com/FRC8576GoldenWarriors/24Karat-Master-Codebase)</a>
+  - [Java, Robot Control Systems]<br/><a href="https://github.com/KevinLeeP/24Karat">(https://github.com/KevinLeeP/24Karat)</a>
 
 
 
