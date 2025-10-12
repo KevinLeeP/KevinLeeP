@@ -12,6 +12,6 @@
 
 <h2>Personal Software Projects</h2>
 
-- <b>Wordwide (Wordle Clone)</b>
+- <b>Wordwide (Wordle Inspired)</b>
   - [Java, JavaFX, GUI]<br/><a href="https://github.com/KevinLeeP/Wordwide">(https://github.com/KevinLeeP/Wordwide)</a>
 
