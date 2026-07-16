@@ -9,9 +9,3 @@
   - [Java, Robot Control Systems]<br/><a href="https://github.com/KevinLeeP/24Karat">(https://github.com/KevinLeeP/24Karat)</a>
 
 
-
-<h2>Personal Software Projects</h2>
-
-- <b>Wordwide (Inspired by Wordle)</b>
-  - [Java, JavaFX, GUI]<br/><a href="https://github.com/KevinLeeP/Wordwide">(https://github.com/KevinLeeP/Wordwide)</a>
-
