@@ -1,7 +1,8 @@
 <h1>Kevin Pfeffer</h1>
 
 <h2>Personal Projects</h2>
-
+- <b>Project Roll (WIP)</b>b>
+  - [Robot Systems Design, PCB Design, ESP-32, Feedback Systems]
 - <b>DeadBounds</b>
   - [Embedded Systems, C Programming, Electronics Design, 3D Graphics]<br/><a href="https://github.com/KevinLeeP/DeadBounds">(https://github.com/KevinLeeP/DeadBounds)</a>
 
