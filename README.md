@@ -3,7 +3,7 @@
 <h2>Personal Projects</h2>
 
 - <b>Project Roll (WIP)</b>
-  - [Robot Systems Design, PCB Design, ESP-32, Feedback Systems]<br/><a href="https://github.com/KevinLeeP/Project-Roll">(https://github.com/KevinLeeP/Project-Roll)
+  - [Robot Systems Design, PCB Design, ESP32, Feedback Systems]<br/><a href="https://github.com/KevinLeeP/Project-Roll">(https://github.com/KevinLeeP/Project-Roll)
   </a>
   
 - <b>DeadBounds</b>
